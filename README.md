@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gopikiller
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
 - 📫 How to reach me https://t.me/Gopi_killer
 
 <!---
